@@ -1,0 +1,10 @@
+DerApproximator.py
+__init__.py
+setup.cfg
+setup.py
+DerApproximator.egg-info/PKG-INFO
+DerApproximator.egg-info/SOURCES.txt
+DerApproximator.egg-info/dependency_links.txt
+DerApproximator.egg-info/requires.txt
+DerApproximator.egg-info/top_level.txt
+DerApproximator.egg-info/zip-safe

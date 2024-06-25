@@ -1,0 +1,15 @@
+name: strainfinder
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python<3.8
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - ete3
+  - pip:
+    - openopt
+    - FuncDesigner
+    - -e ./tools/DerApproximator-0.5201
